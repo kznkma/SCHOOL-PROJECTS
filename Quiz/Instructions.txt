@@ -1,0 +1,11 @@
+Instructions
+Perform the following items using NetBeans. (8 items x 5 points)
+
+Create a constructor named Exam that assigns "Good luck" to a previously declared String variable named message.
+Create an empty overloaded constructor for the Exam class with two (2) String parameters named period and level.
+Declare a double-type accessor named getPrice that returns the value of price.
+Declare a boolean-type accessor named isFinished that returns the value of status.
+Declare a class named Midterm that inherits from the class named Exam.
+Create three (3) class declarations to show multiple levels of inheritance. Use the classes named Exam, Midterm, and Essay.
+Create a constructor named Midterm that prints "Exam has started." using println(). Its first statement should be a call to a constructor in the parent class.
+Given the base class named Quiz and the derived class named Essay, write a statement to show inheritance between these classes.
